@@ -1,0 +1,29 @@
+{
+  "countries": [
+    {
+      "id": "at",
+      "age": 14,
+      "type": "consent"
+    },
+    {
+      "id": "be",
+      "age": 13,
+      "type": "consent"
+    },
+       {
+      "id": "us",
+      "age": 13,
+      "type": "coppa"
+    },
+    {
+      "id": "abc",
+      "age": 13,
+      "type": "coppa"
+    },
+    {
+      "id": "default",
+      "age": 13,
+      "type": "legal"
+    }
+  ]
+}
