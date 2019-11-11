@@ -10,6 +10,11 @@
       "age": 13,
       "type": "consent"
     },
+       {
+      "id": "us",
+      "age": 13,
+      "type": "coppa"
+    },
     {
       "id": "abc",
       "age": 13,
