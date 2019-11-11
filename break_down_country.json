@@ -11,6 +11,11 @@
       "type": "consent"
     },
     {
+      "id": "abc",
+      "age": 13,
+      "type": "coppa"
+    },
+    {
       "id": "default",
       "age": 13,
       "type": "legal"
