@@ -1,0 +1,95 @@
+{
+    "iap" :
+    {
+      "star_pack_1" : 200000,
+      "star_pack_2" : 1000000
+    },
+    "ios" :
+    {
+      "more_game": "itms://itunes.apple.com/us/artist/amanotes/id1258467757?uo=4",
+      "link_web": "https://vinsaga.vn/",
+      "link_app": "itms-apps://itunes.apple.com/app/id1265019448?action=write-review&mt=8"
+    },
+    "android" :
+    {
+      "more_game": "https://play.google.com/store/apps/developer?id=phuhoang304149",
+      "link_web": "https://play.google.com/store/apps/developer?id=phuhoang304149",
+      "link_app": "market://details?id=com.PHltd.solitaire"
+    },
+    "formula_index":
+    {
+      "stage_exp_index" : 1.0,
+      "random_deal_exp" : 20,
+      "daily_challenge_exp" : 20,
+      "combo_C_exp" : 0,
+      "combo_O1_exp" : 1,
+      "combo_M_exp" : 2,
+      "combo_B_exp" : 3,
+      "combo_O2_exp" : 4,
+      "card_bonus_exp" : 10,
+      "star_3_exp" : 3,
+      "star_2_exp" : 2,
+      "star_1_exp" : 1
+    },
+    "gameplay":
+    {
+      "default_shuffle_number": 20,
+      "default_hint_number": 20,
+      "default_undo_number": 20
+    },  
+    "daily_challenge":
+    {
+      "default_trophy_coin_reward_10_day": 10000,
+      "default_trophy_coin_reward_20_day": 20000
+    },
+    "daily_challenge_month_color": [
+        {
+            "month": 1,
+            "color": "32bea6"
+        },
+        {
+            "month": 2,
+            "color": "0072bc"
+        },
+        {
+            "month": 3,
+            "color": "555555"
+        },
+        {
+            "month": 4,
+            "color": "ec008c"
+        },
+        {
+            "month": 5,
+            "color": "0091ea"
+        },
+        {
+            "month": 6,
+            "color": "fabc3e"
+        },
+        {
+            "month": 7,
+            "color": "8dc63f"
+        },
+        {
+            "month": 8,
+            "color": "ffd600"
+        },
+        {
+            "month": 9,
+            "color": "d325b9"
+        },
+        {
+            "month": 10,
+            "color": "ff9a2d"
+        },
+        {
+            "month": 11,
+            "color": "25b7d3"
+        },
+        {
+            "month": 12,
+            "color": "2c5f9c"
+        }
+    ]
+}
