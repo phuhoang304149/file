@@ -2,23 +2,28 @@
   "AndroidDataApp": [
     {
       "packageName": "com.caotoanmy.ver2048",
+      "appName":"ver2048",
       "urlImageAndroid": "consent"
       
     },
     {
       "packageName": "com.PHltd.connectnumber",
+       "appName":"connectnumber",
       "urlImageAndroid": "consent"
     },
        {
       "packageName": "com.PHltd.jellybean",
-      "urlImageAndroid": "com.PHltd.nip"
+       "appName":"jellybean",
+      "urlImageAndroid": "consent"
     },
     {
       "packageName": "com.PHltd.RollingBall",
+       "appName":"RollingBall",
       "urlImageAndroid": "consent"
     },
     {
       "packageName": "com.PHltd.wordcrossy",
+       "appName":"wordcrossy",
       "urlImageAndroid": "consent"
     }
   ]
