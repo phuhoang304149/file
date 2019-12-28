@@ -1,0 +1,25 @@
+{
+  "AndroidDataApp": [
+    {
+      "packageName": "com.caotoanmy.ver2048",
+      "urlImageAndroid": "consent"
+      
+    },
+    {
+      "packageName": "com.PHltd.connectnumber",
+      "urlImageAndroid": "consent"
+    },
+       {
+      "packageName": "com.PHltd.jellybean",
+      "urlImageAndroid": "com.PHltd.nip"
+    },
+    {
+      "packageName": "com.PHltd.RollingBall",
+      "urlImageAndroid": "consent"
+    },
+    {
+      "packageName": "com.PHltd.wordcrossy",
+      "urlImageAndroid": "consent"
+    }
+  ]
+}
