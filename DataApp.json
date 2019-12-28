@@ -31,5 +31,10 @@
        "appName":"NIP - Ninja in Pyjamas",
       "urlImageAndroid": "https://lh3.googleusercontent.com/hhM03ecg5DzT2qjLjlLbxLlQL8C_efqvjYUpCtFsrO4yMjAv4hZtEe8_EqcksQ52nBIH=s180"
     }
+    {
+      "packageName": "com.miboxstudio.solitaire",
+       "appName":"Classic Solitaire 2019",
+      "urlImageAndroid": "https://lh3.googleusercontent.com/XwtQkea08zr7YZTdgJ4O0TmS-gf7PrqaJKxg54EWznB3xa8aRl-hlWv-3VX0sdJ_01t7=s180"
+    }
   ]
 }
